@@ -3,8 +3,8 @@
 ### 🚀STABLE OPERATION IS GUARANTEED
 
 
-#### Our channel in Telegram: [Golden Drainer](https://t.me/c/1925851994/1)
-#### You can buy the script in Telegram, write: [@GoldenDrianer](https://t.me/c/1925851994/1)
+#### My Telegram: [Guren]()
+#### You can buy the script in Telegram, write: [@Guren]()
 
 Golden Drainer is the most advanced drainer on the market. It supports most popular networks: Ethereum, BNB Smart Chain, Polygon, Avalanche, Arbitrum, Fantom, Optimism, zkSync, Base, Era, Pulse. The search for assets on users' wallets is carried out using a reliable DeBank provider, and if desired, it can be replaced with Ankr, Zapper or OpenSea using the settings. Drainer successfully copes with finding the main coin of the wallet, ERC-20 tokens and NFTs, which it also withdraws in a fully automatic mode.
 
@@ -54,7 +54,7 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 * Types of contracts included: Claim, Claim Reward, Security Update, Swap, Connect, Execute, Multicall
 * Available trust contract format: 0x000...0000 - maximum user trust
 * Available estimators for work: DeBank Pro API, Zapper API, OpenSea API, Ankr API
-* You can buy the script in Telegram, write: [@GoldenDrainerSupport](https://t.me/c/1925851994/1)
+* You can buy the script in Telegram, write: [@Guren]()
 * Important note: if you want to purchase a script or ask for some details, write immediately with a note and an indication of this topic. Messages without an indication of the purpose of the appeal have a 99.9% chance of being ignored. Let's save each other's time.
 * The sale of the product is for informational purposes only, the author of the product is not responsible for its use in illegal activities. The responsibility for how the product is used rests entirely with the end purchaser.
 
@@ -65,4 +65,4 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 ![](https://github.com/sherylmercadojiuo/crypto-ms/blob/main/1.png?raw=true)
 ![](https://github.com/sherylmercadojiuo/crypto-ms/blob/main/2.png?raw=true)
 
-### If you have any questions: [@GoldenDrainerSupport](https://t.me/GoldenDrainerSupport)
+### If you have any questions: [@Guren]()
